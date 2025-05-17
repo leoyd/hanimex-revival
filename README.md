@@ -1,12 +1,7 @@
-Voici une version améliorée de ton `README.md` en anglais. Elle est plus fluide, professionnelle et engageante, tout en restant fidèle à l'esprit de ton projet :
-
----
-
-````markdown
 # 📷 Hanimex 415 Revival – Raspberry Pi Camera Capture
 
-**Hanimex 415 Revival** is a creative project that aims to **digitally resurrect the classic Hanimex 415 point-and-shoot film camera** using a **Raspberry Pi Zero 2** and a custom **Python script**. By merging modern electronics with vintage design, this project gives a second life to forgotten hardware — blending nostalgia with innovation.
-
+Hanimex 415 Revival is a creative project that aims to resurrect the classic Hanimex 415 point-and-shoot camera, which became unusable due to the discontinuation of disc film, a crucial component for its operation. 
+By using a Raspberry Pi Zero 2 and a custom Python script, this project merges modern electronics with vintage design, giving new life to forgotten hardware.
 ---
 
 ## 🛠 Project Overview
@@ -69,7 +64,7 @@ Optional but recommended:
 
 ## 💡 Motivation
 
-The **Hanimex 415** was a no-frills film camera known for its simplicity. With this project, the physical body of the Hanimex is reused, while its internals are modernized using a Raspberry Pi and a camera sensor. This approach maintains the **tactile charm** of analog photography while embracing the **convenience of digital**.
+The **Hanimex 415** was a no-frills film camera known for its simplicity. With this project, the physical body of the Hanimex is reused, while its internals are modernized using a Raspberry Pi and a camera sensor.
 
 ---
 
